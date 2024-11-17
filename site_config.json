@@ -1,0 +1,32 @@
+{
+    "project_name": "Tiago Salles",
+    "pages": [
+        {
+            "page_title": "Tiago Salles",
+            "type": "home"
+        },
+        {
+            "page_title": "Tecnologies",
+            "type": "info",
+            "information" : {
+                "title": "Tecnologies",
+                "text": ""
+            }
+        },
+        {
+            "page_title": "",
+            "type": "catalog",
+            "items": [
+                {
+                    "name": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                }
+            ]
+        }
+    ]
+}
